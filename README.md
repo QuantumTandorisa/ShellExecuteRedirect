@@ -15,10 +15,10 @@ Cómo Usar
 4. Compila el programa utilizando `mcs`:
 
 ```bash
-mcs Program.cs
+mcs Program.cs```
 
 Ejecuta el programa con mono:
-mono Program.exe
+```mono Program.exe```
 
 
 El programa ejecutará el comando especificado en la shell Unix y mostrará la salida en la consola de la aplicación.
