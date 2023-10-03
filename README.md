@@ -14,11 +14,11 @@ Cómo Usar
 3. Modifica la variable `comando` en el código para ejecutar el comando que desees en la shell Unix.
 4. Compila el programa utilizando `mcs`:
 
-```bash
-mcs Program.cs```
+bash:
+'''mcs Program.cs'''
 
-Ejecuta el programa con mono:
-```mono Program.exe```
+mono:
+'''mono Program.exe'''
 
 
 El programa ejecutará el comando especificado en la shell Unix y mostrará la salida en la consola de la aplicación.
