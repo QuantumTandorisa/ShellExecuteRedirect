@@ -8,7 +8,6 @@ ShellExecuteRedirect demuestra cómo ejecutar comandos en una shell Unix desde u
 ## Uso
 
 - Clona o descarga este repositorio en tu máquina local.
-- Abre el proyecto en tu entorno de desarrollo C# favorito (por ejemplo, Visual Studio o Visual Studio Code).
 - Modifica la variable `comando` en el código para ejecutar el comando que desees en la shell Unix.
 - Compila el programa utilizando `mcs`:
 - bash:`mcs Program.cs`.
